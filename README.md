@@ -13,4 +13,4 @@ where x_m and y_m are the current locations of the mouse pointer. You can test t
 ~> python mouse_tracker_1.py
 ```
 
-Does it look realistic movement? No, this tracker is like Harry Potter book "apparation" or teleporting where your tracker does not obey any rules of physics.
+Does it look realistic movement? No, this tracker is like Harry Potter book "apparation" or teleportation where your tracker does not obey any rules of physics, but can instantaenously jump anywhere in the map.
